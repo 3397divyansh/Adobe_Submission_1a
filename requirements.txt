@@ -1,0 +1,5 @@
+PyMuPDF==1.23.7
+onnxruntime==1.17.1
+transformers==4.40.0
+scikit-learn==1.4.2
+numpy<2.0
